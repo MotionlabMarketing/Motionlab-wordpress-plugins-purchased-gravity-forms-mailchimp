@@ -1,0 +1,6 @@
+{
+    "name": "wordpress-plugins-purchased/gravity-forms-mailchimp",
+    "description": "Gravity forms mailchimp extension.",
+    "type": "wordpress-plugin",
+    "require": {}
+}
